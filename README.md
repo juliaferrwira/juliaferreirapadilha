@@ -6,4 +6,4 @@ I graduated from high school with a technical degree in Systems Development, and
 
 Here on GitHub, you will find everything from course projects to ideas that came out of nowhere and turned into code!
 
-At the moment, I'm working as a junior developer. Even being full stack, my main focus is backend.
+At the moment, I'm working as a junior developer. Even being full stack, my main focus is backend and mobile.
